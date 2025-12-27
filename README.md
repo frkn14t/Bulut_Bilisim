@@ -11,7 +11,10 @@ container tabanlı olarak yayınlanmıştır.
 - Service Account kullanımı
 - Cloud Storage üzerinde statik web sitesi yayınlama
 
-#### Statik Web Sitesi Linki: https://github.com/frkn14t/Lokanta-Websitesi
+#### https://flask-cloudrun-85138083826.europe-west1.run.app
+#### Statik Web Sitesi Linki: https://storage.googleapis.com/lokanta_static_site14/Lokanta-Websitesi-main/index.html
+#### Statik Web Sitesi Kaynak Kodlar: https://github.com/frkn14t/Lokanta-Websitesi 
+
 <img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/ec7aa53e-7154-4fe3-a3ca-7b69f8d9f837" />
 
 ## ☁️ Kullanılan Teknolojiler
