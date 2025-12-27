@@ -11,7 +11,8 @@ container tabanlı olarak yayınlanmıştır.
 - Service Account kullanımı
 - Cloud Storage üzerinde statik web sitesi yayınlama
 
-## Statik Web Sitesi Linki: https://github.com/frkn14t/Lokanta-Websitesi
+#### Statik Web Sitesi Linki: https://github.com/frkn14t/Lokanta-Websitesi
+<img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/ec7aa53e-7154-4fe3-a3ca-7b69f8d9f837" />
 
 ## ☁️ Kullanılan Teknolojiler
 - Python / Flask
